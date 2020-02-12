@@ -1,0 +1,14 @@
+
+
+Mafacturer                                          Consumer
+
+	Manfacturer Det										Consumer/User Det
+	
+	  Name
+	  Address
+	  Zipcode
+	  Veh Type
+                     
+						Supplier
+						    Mafacturer Det
+							Consumer Det 
