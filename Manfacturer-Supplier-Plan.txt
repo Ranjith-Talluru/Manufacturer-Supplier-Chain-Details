@@ -19,8 +19,5 @@ Mafacturer                                          Consumer
 << Amazon - - RDS  - PostGre Sql Connection Details >>
 
 
-Master username  : masterUsername
-Master password  : C#0wdary
 
 
-URL : jdbc:postgresql://manufacturer-postgresql.cvjzzyqshj10.us-east-1.rds.amazonaws.com:5432/myDatabase
